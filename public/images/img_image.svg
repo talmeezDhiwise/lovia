@@ -1,0 +1,10 @@
+<svg width="554" height="771" viewBox="0 0 554 771" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="61" width="500" height="710" rx="250" fill="#EAE5DA"/>
+<rect x="54.5" y="0.5" width="499" height="709" rx="249.5" stroke="#67C6B3"/>
+<mask id="mask0_630_3" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="35" y="31" width="500" height="710">
+<rect x="35" y="31" width="500" height="710" rx="250" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_630_3)">
+<rect x="35" y="31" width="500" height="710" rx="250" fill="#67C6B3"/>
+</g>
+</svg>
